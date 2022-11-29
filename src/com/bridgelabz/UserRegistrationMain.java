@@ -2,8 +2,6 @@ package com.bridgelabz;
 
 import java.util.Scanner;
 
-import java.util.Scanner;
-
 public class UserRegistrationMain {
     public static void main(String[] args) {
         UserRegistrationRegex regex=new UserRegistrationRegex();
